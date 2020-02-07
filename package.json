@@ -13,7 +13,8 @@
     "generate-html": "^1.0.1",
     "inquirer": "^7.0.4",
     "jest": "^25.1.0",
-    "test": "^0.6.0"
+    "test": "^0.6.0",
+    "util": "^0.12.1"
   },
   "directories": {
     "lib": "lib",
